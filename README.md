@@ -3,6 +3,11 @@
 ## Descripción
 Este proyecto consiste en un programa desarrollado en lenguaje C que permite convertir monedas entre quetzales, dólares y euros. El usuario selecciona una opción y el programa calcula el resultado correspondiente.
 
+## Prerrequisitos
+- Tener un compilador de C instalado
+- En Ubuntu se puede instalar con:
+sudo apt install build-essential
+
 ## Pasos para su ejecución
 1. Compilar el programa:
 gcc conversor_monedas.c -o conversor
